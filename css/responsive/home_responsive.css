@@ -1,0 +1,569 @@
+
+/* (1920x1080) Full HD Display */
+
+@media only screen and (min-device-width:1366px) and (max-device-width:1920px){
+    .logo img {
+	max-width: 180px;
+}
+    .main-manu li a {
+	font-size: 16px;
+	padding: 50px 0;
+}
+ .header-btn-icon img {
+	min-width: 70px;
+	margin-right: 15px;
+}
+    .header-cta.f-right h3 {
+	font-size: 24px;
+}
+    .header-cta span {
+	font-size: 14px;
+	
+}
+    .last-text h4 {
+	font-size: 24px;
+}
+    .video-area h2 {
+	font-size: 58px;
+	
+}
+    .about-right h2 {
+	font-size: 60px;
+}
+    
+    
+    
+    
+    
+    
+}
+
+/* (1366x768) WXGA Display */
+@media  screen and (max-width: 1366px) {}
+/*---------------- iPads (portrait and landscape) ---------------------- */
+@media only screen and (min-device-width: 992px) and (max-device-width: 1200px) {
+  .header-area {
+      padding: 30px;
+}
+    .logo img {
+	max-width: 90px;
+}
+    .header-btn-icon img {
+	min-width: 49px;
+	margin-right: 10px;
+}
+    .header-cta.f-right h3 {
+	font-size: 15px;
+}
+    .main-manu li a {
+	font-size: 13px;
+	padding: 15px 0;
+}
+    .main-manu li {
+	margin: 0 14px;
+}
+    .hero-area {
+	min-height: 700px;
+}
+    .hero-captation p {
+	font-size: 21px;
+}
+    .bg-white {
+	 padding-left: 0px; 
+}
+    .about-right h2 {
+	font-size: 47px;
+}
+    .last-text h4 {
+	font-size: 16px;
+}
+    .last-text span {
+	font-size: 13px;
+}
+  .medixer-testmonial p {
+	font-size: 14px;
+}
+    .single-features-item h4 {
+	font-size: 23px;
+}
+    .single-features-item p {
+	font-size: 13px;
+}
+    .cta-area h2 {
+	font-size: 59px;
+}
+    .cta-img-icon img {
+	max-width: 100%;
+}
+    .expart-text p {
+	line-height: 1.5;
+	font-size: 14px;
+	padding: 2px;
+}
+    .video-area h2 {
+	font-size: 42px;
+}
+    .video-area {
+	padding-top: 150px;
+	padding-bottom: 110px;
+}
+    .new-text h2 {
+	font-size: 20px;
+}
+    .social-link a {
+	height: 40px;
+	width: 40px;
+	line-height: 40px;
+}
+    .footer-area ul li a {
+	font-size: 12px;
+	
+}
+    .footer-area ul li {
+	font-size: 12px;
+}
+    .foter-tiem-detalce-right ul li {
+	font-size: 12px;
+}
+    .features-carousel.owl-theme .owl-nav .owl-prev, .features-carousel.owl-theme .owl-nav .owl-next {
+	left: -25px;
+}
+    .features-carousel.owl-theme .owl-nav .owl-next {
+	right: -32px;
+    left: auto;
+}
+ 
+} 
+    
+   
+/*------------------- tablate & mobile layout -------------------- */
+
+@media only screen and (max-device-width: 991px) {
+    .header-area {
+	padding-left: 10px;
+	padding-right: 10px;
+	padding: 20px 0;
+}
+    .logo img {
+	max-width: 100px;
+}
+    .main-manu li {
+	margin: 0 12px;
+}
+    .main-manu li a {
+	font-size: 10px;
+	padding: 3px 0;
+}
+    .header-btn-icon img {
+	min-width: 20px;
+	margin-right: 10px;
+}
+    .header-cta.f-right h3 {
+	font-size: 10px;
+}
+    .hero-captation h2 {
+	font-size: 3.7rem;
+}
+    .hero-captation p {
+	font-size: 15px;
+}
+    .hero-area {
+	min-height: 520px;
+}
+    .hero-btn a {
+	padding: 15px 25px;
+}
+    .section-tittle h2 {
+	font-size: 3.3rem;
+}
+    .fea-content h3 {
+	font-size: 1.6rem;
+}
+    .bg-white {
+	padding-left: 0px;
+}
+    .fea-content p {
+	padding: 0 0px;
+	font-size: 12px;
+}
+    .about-right h2 {
+	font-size: 35px;
+	
+}
+    .about-right p {
+	font-size: 11px;
+}
+    .abut-left {
+	margin-left: 50px;
+}
+    img.about1 {
+	right: 210px;
+	max-width: 211px;
+}
+    img.about2 {
+	right: 70px;
+	top: 106px;
+	max-width: 316px;
+}
+    img.about3 {
+	bottom: 127px;
+	left: -96px;
+	max-width: 100px;
+}
+    img.about4 {
+	left: -165px;
+	top: 123px;
+	max-width: 227px;
+}
+    .last-img img {
+	max-width: 60px;
+}
+    .last-text h4 {
+	font-size: 12px;
+}
+    .last-text span {
+	font-size: 11px;
+	
+}
+    .medixer-tst-img {
+	background: none;
+}
+    .medixer-tst-img {
+	margin-left: -11px;
+}
+    .medixer-tst-img img {
+	max-width: 150px;
+}
+    .medixer-tst-img.tst-2 img {
+	max-width: 130px;
+}
+    .medixer-tst-img.tst-4 img {
+	max-width: 130px;
+}
+    
+.medixer-tst-img.tst-2 {
+  margin-left: 21px;
+}
+.medixer-tst-img.tst-4 {
+  margin-left: 10px;
+}
+    .medixer-testmonial h4 {
+	font-size: 19px;
+}
+    .medixer-testmonial p {
+	font-size: 10px;
+}
+    .cta-area h2 {
+	font-size: 43px;
+}
+    
+
+.cta-img-icon img {
+  max-width: 86px;
+}
+    
+.expart-text p {
+	line-height: 1.8;
+	margin-bottom: 30px;
+	font-size: 10px;
+}
+.expart-detilece-img img {
+  max-width: 88px;
+}
+
+.expart-detilce h4 {
+  font-size: 15px;
+}
+    
+   a.icon-btn {
+	height: 40px;
+	width: 40px;
+	line-height: 40px;
+	margin-left: 5px;
+}
+    
+    .single-features-item h4 {
+	font-size: 16px;
+}
+    .single-features-item p {
+	font-size: 10px;
+}
+    .appointment-form input {
+	padding: 15px 25px;
+	font-size: 11px;
+}
+    .video-area h2 {
+	font-size: 30px;
+	
+}
+    .news-img {
+	height: 230px;
+}
+    .news-baner {
+	height: 60px;
+	width: 60px;
+	margin-left: 130px;	
+}
+    .news-detalse span {
+	font-size: 9px;
+	
+}
+    .news-baner h2 {
+	font-size: 40px;
+	line-height: 1.4;
+}
+ a.redmoore-btn {
+	font-size: 11px;
+	
+}
+    .news-baner h2 {
+	font-size: 36px;
+	margin-bottom: -17px;
+	
+}
+    .new-text h2 {
+	font-size: 14px;
+}
+    .social-link a {
+	height: 30px;
+	width: 30px;
+	line-height: 2;
+	font-size: 13px;
+}
+    .features-carousel.owl-theme .owl-nav .owl-prev, .features-carousel.owl-theme .owl-nav .owl-next {
+	
+	left: -33px;
+}
+    .features-carousel.owl-theme .owl-nav .owl-next {
+    left: auto;
+	right: -30px;
+}
+    .about-area.pb-115 {
+	padding-bottom: 0;
+}
+    .pt-115 {
+	padding-top: 80px;
+}
+    .pb-115 {
+	padding-bottom: 80px;
+}
+    .pt-115 {
+	padding-top: 80px;
+}
+    .copyright-area {
+	
+	margin-top: 80px;
+}
+
+
+}
+/*------------------- small device -------------------- */
+
+@media only screen and (min-device-width:768px) and (max-device-width:991px) {
+    .cta-btn a {
+	padding: 20px 0px;
+	font-size: 15px;
+	display: block;
+	text-align: center;
+}
+    .expart-btn .dbtn {
+	padding: 15px 28px;
+	display: inline-block;
+	font-size: 10px;
+}
+    .features-tittle h2 {
+	font-size: 54px;
+}
+        
+}
+/*================= 320  mobile lay out   =======================*/
+@media only screen and (max-device-width: 767px){
+    .main-manu {
+	display: none;
+}
+    .header-btn-icon img {
+	width: 34px;
+}
+    .header-cta span {
+	font-size: 8px;
+}
+    .header-cta.f-right h3 {
+	font-size: 8px;
+}
+    .header-btn-icon img {
+	margin-right: 4px;
+}
+    .hero-captation h2 {
+	font-size: 2.7rem;
+}
+    .hero-captation p {
+	font-size: 13px;
+}
+    .hero-btn a {
+	padding: 15px 24px;
+	font-size: 12px;
+}
+    .hero-area {
+	min-height: 330px;
+}
+    .features-area {
+	margin-top: 0;
+}
+    .section-tittle h2 {
+	font-size: 30px;
+}
+    .section-tittle h2::before, .section-tittle h2::after {
+	top: 8px;
+}
+    .section-tittle p {
+	font-size: 10px;
+}
+    .pt-110 {
+	padding-top: 50px;
+}
+    .mb-70 {
+	margin-bottom: 50px;
+}
+    .mb-35 {
+	margin-bottom: 25px;
+}
+    .medi-features {
+	margin-bottom: 40px;
+}
+    .pb-85 {
+	padding-bottom: 20px;
+}
+    .mb-115 {
+	margin-bottom: 50px;
+}
+    .abut-left {
+	margin-left: 80px;
+	
+}
+    .abut-left {
+	height: 515px;
+	
+}
+    .about-right span {
+	margin-bottom: 15px;
+}
+    .about-right h2 {
+	font-size: 30px;
+}
+    .last-text h4 {
+	font-size: 9px;
+}
+    .about-right span {
+	margin-bottom: 8px;
+}
+    
+    .medixer-testmonial.down-40 {
+	margin-top: 20px;
+}
+    .medixer-tst-img {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  margin-left: auto;
+}
+.medixer-tst-img.tst-2,.medixer-tst-img.tst-4 {
+  height: 130px;
+  width: 130px;
+  margin-left: auto;
+}
+    .cta-area h2 {
+	font-size: 30px;
+}
+    .cta-btn a {
+	padding: 15px 18px;
+	font-size: 13px;
+}
+    .expart-text {
+	margin-left: 20px;
+}
+    .expart-btn .dbtn {
+	padding: 12px 20px;
+    font-size: 10px;
+}
+    .our-expart {
+	background: #f6feff;
+	margin-bottom: 20px;
+}
+    .features-tittle h2 {
+	font-size: 50px;
+}
+    .features-tittle p {
+	font-size: 10px;
+}
+    .features-btn {
+	text-align: left;
+	margin-bottom: 20px;
+}
+    .features-tittle {
+	margin-bottom: 30px;
+}
+    a.dbtn {
+	padding: 15px 9px;
+	font-size: 13px;
+	
+}
+    a.dbtn.form {
+	padding: 17px 60px;
+}
+    .pb-140 {
+	padding-bottom: 50px;
+}
+    .pt-150 {
+	padding-top: 50px;
+}
+    .video-left-icon, .video-right-icon {
+	height: 50px;
+	width: 50px;
+	line-height: 3;
+	left: 30px;
+}
+    .video-left-icon img {
+	max-width: 30px;
+}
+    .video-right-icon img {
+	max-width: 30px;
+}
+.video-right-icon {
+	position: absolute;
+	top: 70px;
+	left: 242px;
+}
+    .video-play-btn a {
+	height: 80px;
+	width: 80px;
+	line-height: 2.5;
+}
+    .video-area h2 {
+	font-size: 14px;
+	line-height: 1.6;
+}
+    .footer-area {
+	padding: 50px 0;
+}
+    .social-link {
+	margin-bottom: 40px;
+}
+    .footer-all-btn {
+	margin-bottom: 30px;
+}
+
+    .department {
+	margin-left: 0px;
+    margin-bottom: 40px;
+}
+
+    
+    
+    
+    
+    
+    
+    
+	
+}
+
